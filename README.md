@@ -15,9 +15,6 @@ The following Excel features were incorporeted
 - Visualization
 
 ## Problem Statement
-
-## Visualization
-The report comprises six charts and five KPIs that help us generate insights into overall business performance. These charts answer the following questions:
 - What is the profit and sales monthly turnover?
 - What is the distribution of sales across product category?
 - Which product is most profitable?
@@ -25,7 +22,26 @@ The report comprises six charts and five KPIs that help us generate insights int
 - What is the quarterly profit trend?
 - Which products are bestsellers?
 
-   ![](Dashboard.png) 
+
+## Visualization
+The report comprises six charts and five KPIs that help us generate insights into overall business performance.
+
+   ![](Dashboard.png)
+
+  ## Analysis
+ ### Profit and Sales Monthly Trends
+This Combo chart displays the monthly profit and sales trends of the data and help identify periods with high sales and profits turnover.
+
+![](Profit_Sales_Trend.png)
+
+###Sale by Categories.
+The pie-chart is use to identifies the distribution of sales across different Ecommerce product category and generate insights to the popularity of the Ecommerce product category and their overall sales contribution. As seen in the chart, Technology products are more popular and generates more sales.
+
+![](Sales_by_category.png)
+
+###Profits by Category.
+Create a waterfall chart that identifies the distribution of profit across product categories and should be sorted from the smallest to largest.  This chart will identify the profitable products in order of hierarchy.
+  
 
   
 
