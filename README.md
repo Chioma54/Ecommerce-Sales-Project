@@ -28,6 +28,11 @@ The report comprises six charts and five KPIs that help us generate insights int
 
    ![](Dashboard.png)
 
+   
+You can interact with the report [here](<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=CD385A28D9191CCD%21350&authkey=%21AP1D1TjSrEBw_HU&em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>)
+
+Kindly note that Excel web does not support some features in the dashoard.
+
   ## Analysis
  ### Profit and Sales Monthly Trends
 
@@ -55,18 +60,9 @@ This map shows states with high sales and help us determine the states to target
 
 ### Quarterly Profits
 
-![](Quarterly_Profits.png)
+![](Quarterly_Profits.png) 
 
  The puropse of this chart is to help us gain insights into quarterly profit performance.
 
-### Top 5 Sales by Sub-category
-
-![](Sales_by_ Sub-Category.png)
-
-This bar chart helps gain insights into our bestselling products.
-
-
-
-  
-
-
+## Conclusion
+In 2014, we noticed an increase in profit and this is mostly contributed by our customers from the consumer segments, however, it is also observed that we YOY Growth inceased.
