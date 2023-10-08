@@ -30,18 +30,42 @@ The report comprises six charts and five KPIs that help us generate insights int
 
   ## Analysis
  ### Profit and Sales Monthly Trends
+
+  ![](Profit_Sales_Trend.png)
+
 This Combo chart displays the monthly profit and sales trends of the data and help identify periods with high sales and profits turnover.
 
-![](Profit_Sales_Trend.png)
+### Sale by Category.
 
-###Sale by Categories.
-The pie-chart is use to identifies the distribution of sales across different Ecommerce product category and generate insights to the popularity of the Ecommerce product category and their overall sales contribution. As seen in the chart, Technology products are more popular and generates more sales.
+   ![](Sales_by_category.png)
+   
+The pie-chart is use to identifies the distribution of sales across different Ecommerce product category and generate insights to the popularity of the Ecommerce product categories and their overall sales contribution. As seen in the chart,**Technology** products are more popular and generates more sales.
 
-![](Sales_by_category.png)
+### Profits by Category.
 
-###Profits by Category.
-Create a waterfall chart that identifies the distribution of profit across product categories and should be sorted from the smallest to largest.  This chart will identify the profitable products in order of hierarchy.
+ ![](Profit_by_category.png)
+ 
+Waterfall chart is used to identify the distribution of profit across product categories from the smallest to largest. The chart shows **Technology** as the profitable product.
+
+### Sales by State.
+
+  ![](Sales_by_State.png)
   
+This map shows states with high sales and help us determine the states to target in our advertising campaigns.
+
+### Quarterly Profits
+
+![](Quarterly_Profits.png)
+
+ The puropse of this chart is to help us gain insights into quarterly profit performance.
+
+### Top 5 Sales by Sub-category
+
+![](Sales_by_ Sub-Category.png)
+
+This bar chart helps gain insights into our bestselling products.
+
+
 
   
 
