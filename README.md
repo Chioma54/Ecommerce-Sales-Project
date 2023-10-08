@@ -25,7 +25,7 @@ The report comprises six charts and five KPIs that help us generate insights int
 - What is the quarterly profit trend?
 - Which products are bestsellers?
 
-   ![](Dashboard.png)
+   ![](Dashboard.png) 
 
   
 
