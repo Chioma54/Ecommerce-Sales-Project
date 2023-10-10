@@ -64,5 +64,15 @@ This map shows states with high sales and help us determine the states to target
 
  The puropse of this chart is to help us gain insights into quarterly profit performance.
 
-## Conclusion
-In 2014, we noticed an increase in profit and this is mostly contributed by our customers from the consumer segments, however, it is also observed that we YOY Growth inceased.
+## Conclusion:
+
+- In 2011, we noticed a growth of 12.21% in sales and a 27.47% increase in profit from the consumer segment.
+- We observed an increase in the Technology product category of 37.15% in 2013 and 37.6% in 2014, as well as 36.20% in 2011, making it the bestselling product category.
+- In 2014, we observed an increase in sales in states such as Texas ($43.42k), New York ($93.92k), Florida ($26.52k), and California ($146.73k).
+- Quarterly profit consistently increased year-over-year, particularly in Q4. This trend ranged from $21.72k in 2011 to $23.31k in 2012, $34.04k in 2013, and $27.66k in 2014. This can be attributed to increased holiday shopping and year-end preparations. This trend is also reflected in the monthly sales, with notable increases in September, November, and December, respectively.
+
+## Recommendations:
+
+- It is evident that the most profitable customers are consumers. I suggest partnering with corporate businesses to supply them with office equipment, including free installation.
+- Launch an advertising campaign targeted at customers in states like Kansas, Nebraska, Maine, and Tennessee. This campaign should address their specific needs.
+- Consider adding exercise equipment to your product offerings to boost sales in Q1 and Q2, as many individuals include getting fit and healthy in their New Year's resolutions.
