@@ -76,3 +76,5 @@ This map shows states with high sales and help us determine the states to target
 - It is evident that the most profitable customers are consumers. I suggest partnering with corporate businesses to supply them with office equipment, including free installation.
 - Launch an advertising campaign targeted at customers in states like Kansas, Nebraska, Maine, and Tennessee. This campaign should address their specific needs.
 - Consider adding exercise equipment to your product offerings to boost sales in Q1 and Q2, as many individuals include getting fit and healthy in their New Year's resolutions.
+
+  ### Thank you.
