@@ -1,7 +1,5 @@
 # Ecommerce Sales Analysis
 
-![](Front_page.png)
-
 ## Introduction
 This is an Excel e-commerce sales analysis of an imaginary store named **Ecommerce Sales** The project aims to analyze and derive insights from the provided data to answer business questions that will facilitate data-driven decision-making.
 
